@@ -18,9 +18,8 @@
     "escapedName": "react-native-inverted-gifted-charts",
     "rawSpec": "0.0.1",
     "saveSpec": null,
-    "fetchSpec": "0.0.1"
+    "fetchSpec": "0.0.1",
   },
-
   "_spec": "0.0.1",
   "author": {
     "name": "Sarvesh",
