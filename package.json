@@ -9,20 +9,8 @@
   "_id": "react-native-inverted-gifted-charts",
   "_inBundle": false,
 
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "react-native-inverted-gifted-charts",
-    "name": "react-native-inverted-gifted-charts",
-    "escapedName": "react-native-inverted-gifted-charts",
-    "rawSpec": "0.0.1",
-    "saveSpec": null,
-    "fetchSpec": "0.0.1",
-  },
-  "author": {
-    "name": "Sarvesh",
-  },
+
+
   "bugs": {
     "url": "https://github.com/Sarveshwins/react-native-inverted-gifted-charts/issues"
   },
@@ -61,6 +49,8 @@
   "keywords": [
      "Gifted Chart","Inverted Gifted Chart","Gifted Chart LoadMore"
   ],
+  "author": "Sarvesh",
+
   "license": "ISC",
   "main": "src/index.tsx",
   "name": "react-native-inverted-gifted-charts",
