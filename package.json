@@ -24,7 +24,7 @@
   "_requiredBy": [
     "/"
   ],
- 
+  
   "_spec": "0.0.1",
 
   "dependencies": {
@@ -71,7 +71,11 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
- ,
+  "repository": {
+    "type": "git",
+    "url": "git+  https://github.com/Sarveshwins/react-native-inverted-gifted-charts.git"
+  },
+
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
