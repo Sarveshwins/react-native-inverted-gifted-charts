@@ -1,0 +1,83 @@
+{
+  "_args": [
+    [
+      "react-native-inverted-gifted-charts",
+     
+    ]
+  ],
+  "_from": "react-native-inverted-gifted-charts",
+  "_id": "react-native-inverted-gifted-charts",
+  "_inBundle": false,
+  "_integrity": "sha512-FddCST7RefvZHd5xEvUlVMvwFCvv8ZpTAROF4Bzy+PvE6YNHq7WhaxEy03GTNlSo3AelSq/LWImZj64El6PXSw==",
+  "_location": "/react-native-inverted-gifted-charts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-inverted-gifted-charts",
+    "name": "react-native-inverted-gifted-charts",
+    "escapedName": "react-native-inverted-gifted-charts",
+    "rawSpec": "0.0.1",
+    "saveSpec": null,
+    "fetchSpec": "0.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+ 
+  "_spec": "0.0.1",
+
+  "dependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.0.2",
+    "@types/react": "^17.0.5",
+    "@types/react-dom": "^17.0.3",
+    "@types/react-native": "^0.64.5",
+    "react-native-canvas": "^0.1.37",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-svg": "^12.1.0",
+    "react-native-webview": "^11.4.4",
+    "typescript": "^4.2.4"
+  },
+  "description": "The most complete library for Bar, Line, Area, Pie and Donut charts in React Native. Allows 2D, 3D, gradient, animations and live data updates.",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/runtime": "^7.14.8",
+    "@react-native-community/eslint-config": "^3.0.0",
+    "@types/react-native-canvas": "^0.1.7",
+    "babel-jest": "^27.0.6",
+    "eslint": "^7.31.0",
+    "jest": "^27.0.6",
+    "metro-react-native-babel-preset": "^0.66.2",
+    "react-test-renderer": "17.0.1"
+  },
+  "files": [
+    "src"
+  ],
+
+  "jest": {
+    "preset": "react-native"
+  },
+  "keywords": [
+     " Gifted Chart","Inverted Gifted Chart","Gifted Chart LoadMore"
+  ],
+  "license": "MIT",
+  "main": "src/index.tsx",
+  "name": "react-native-inverted-gifted-charts",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+ ,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "lint": "eslint .",
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "version": "0.0.1"
+}
